@@ -94,7 +94,7 @@ const Icon = ({ source, color, size, theme, ...rest }: Props) => {
           {
             width: size,
             height: size,
-            tintColor: color,
+//             tintColor: color,
             resizeMode: 'contain',
           },
         ]}
